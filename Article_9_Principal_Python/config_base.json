@@ -1,0 +1,33 @@
+{
+  "activation_cost": 1.0,
+  "beta_alpha": 2.0,
+  "beta_beta": 2.0,
+  "combined_weights": [
+    0.25,
+    0.25,
+    0.25,
+    0.25
+  ],
+  "horizon_months": 60,
+  "hybrid_weights": [
+    0.25,
+    0.25,
+    0.25,
+    0.25
+  ],
+  "k": 20,
+  "master_seed": 20260925,
+  "mean_degree": 12.0,
+  "mixing_fraction": 0.2,
+  "n_agents": 600,
+  "n_communities": 6,
+  "require_modular": true,
+  "revenue_weights": [
+    0.2,
+    0.2,
+    0.2,
+    0.2,
+    0.2
+  ],
+  "value_noise_sigma": 0.35
+}

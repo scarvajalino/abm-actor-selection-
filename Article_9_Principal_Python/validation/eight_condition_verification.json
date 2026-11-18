@@ -1,0 +1,8 @@
+{
+  "comparison": "all monthly M2/M3 fields 0..60 exactly match prior pilot",
+  "conditions": 8,
+  "excluded_from_main_experiment": true,
+  "policy": "random",
+  "repetition": 0,
+  "status": "passed"
+}

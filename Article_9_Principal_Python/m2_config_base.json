@@ -1,0 +1,16 @@
+{
+  "adoption_intercept": -2.0,
+  "base_contact_capacity": 4,
+  "credibility_effect": 2.0,
+  "fit_effect": 2.0,
+  "horizon_months": 60,
+  "need_effect": 2.0,
+  "product_complexity": 0.5,
+  "product_quality": 0.75,
+  "quality_effect": 1.0,
+  "risk_effect": 1.0,
+  "satisfaction_quality_weight": 0.6,
+  "satisfaction_threshold": 0.6,
+  "social_proof_effect": 0.5,
+  "social_proof_saturation": 3
+}

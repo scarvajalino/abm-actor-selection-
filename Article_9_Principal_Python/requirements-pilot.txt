@@ -1,0 +1,2 @@
+# In addition to requirements-lock.txt; plotting only.
+matplotlib==3.10.8

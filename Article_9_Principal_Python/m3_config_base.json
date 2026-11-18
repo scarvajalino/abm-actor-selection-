@@ -1,0 +1,8 @@
+{
+  "attribution_alpha": 1.0,
+  "leader_fraction": 0.2,
+  "repurchase_probability": 0.0,
+  "repurchase_value_factor": 1.0,
+  "service_cost_fixed": 0.0,
+  "service_cost_rate": 0.2
+}
